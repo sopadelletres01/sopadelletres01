@@ -18,20 +18,6 @@
   <img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=790b7611bf2ba54a57133fef09a756947107e40bc0d94784&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
----
-
-### 📝 About Me :
-
-I'm Marc, a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
-
-- :telescope: Looking for a frontend / backend full-time job
-
-- :seedling: Willing to improve my skills and learn new ones
-
-- :zap: In my free time i like to play videogames 🕹️, watch movies 🎬️ and series 🎞️ and make sport 🏉
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sopadelletres-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marccarbonellperez/)
-
 
 ---
 
@@ -68,6 +54,22 @@ Enter The Darkness 🖼️:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
+
+
+---
+
+### 📝 About Me :
+
+I'm Marc, a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
+
+- :telescope: Looking for a frontend / backend full-time job
+
+- :seedling: Willing to improve my skills and learn new ones
+
+- :zap: In my free time i like to play videogames 🕹️, watch movies 🎬️ and series 🎞️ and make sport 🏉
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sopadelletres-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marccarbonellperez/)
+
 
 
 ---
