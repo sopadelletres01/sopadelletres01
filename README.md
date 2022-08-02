@@ -62,3 +62,21 @@ I'm Marc, a Full Stack Web Developer <img src="https://media.giphy.com/media/WUl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sopadelletres01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### 💡 My Projects :
+
+Event Manager 🌆:
+<a href="https://cram-frontend.vercel.app/">
+    <b>Cram Events</b>
+</a>
+
+Electric Budget Calculator ⚡️:
+<a href="https://electric-price-budget.herokuapp.com/">
+    <b>Electric Calculator</b>
+</a>
+
+Enter The Darkness 🖼️:
+<a href="https://sopadelletres01.github.io/canvas-project/">
+    <b>Canvas Project</b>
+</a>
