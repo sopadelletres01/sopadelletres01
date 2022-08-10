@@ -46,7 +46,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
 
 <a href="https://electric-price-budget.herokuapp.com/">
-    <img src="https://i.imgur.com/gDCnxTK.jpg?1"/>
+    <img src="https://i.imgur.com/gvLVOYo.jpg?1"/>
 </a>
 
 
