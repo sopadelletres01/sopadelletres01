@@ -21,12 +21,9 @@
 
 ---
 
-### 💡 My Projects :
+## 💡 My Projects :
 
-Event Manager 🌆:
-<a href="https://cram-frontend.vercel.app/">
-    <b>Cram Events</b>
-</a>
+### Cram Events (Event Manager) 🏈:
 
 <b>Stack: </b>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
@@ -34,31 +31,42 @@ Event Manager 🌆:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
 
-
-Electric Budget Calculator ⚡️:
-<a href="https://electric-price-budget.herokuapp.com/">
-    <b>Electric Calculator</b>
+<a href="https://cram-frontend.vercel.app/">
+    <img src="https://i.imgur.com/cBuQU0a.png"/>
 </a>
+
+<br>
+<br>
+
+### Electric Budget Calculator ⚡️:
 
 <b>Stack: </b>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo" alt="Mongo" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
 
-Enter The Darkness 🖼️:
-<a href="https://sopadelletres01.github.io/canvas-project/">
-    <b>Canvas Project</b>
+<a href="https://electric-price-budget.herokuapp.com/">
+    <img src="https://i.imgur.com/gDCnxTK.jpg?1"/>
 </a>
+
+
+
+### Enter The Darkness 🖼️:
 
 <b>Stack: </b>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
 
+<a href="https://sopadelletres01.github.io/canvas-project/">
+    <img src="https://i.imgur.com/56Ex3Kd.png?1"/>
+</a>
+
+
 
 ---
 
-### 📝 About Me :
+## 📝 About Me :
 
 I'm Marc, a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
 
@@ -96,7 +104,7 @@ I'm Marc, a Full Stack Web Developer <img src="https://media.giphy.com/media/WUl
 
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sopadelletres01&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
